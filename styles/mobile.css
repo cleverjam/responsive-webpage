@@ -1,0 +1,35 @@
+@import 'https://fonts.googleapis.com/css?family=Abel|Alike+Angular';
+
+
+p {
+  margin: 15px 0 15px;
+
+}
+
+header {
+  font-family: 'Alike Angular', serif;
+  color: #d46a6a;
+  border-left: 10px solid #550000;
+  padding-left: .5em;
+  margin: 0;
+
+}
+header h1 {
+  font-size: 2.5em;
+}
+
+header h1,
+header p {
+  margin: 0;
+
+
+}
+
+header p {
+  color: #550000;
+  margin: 0 auto;
+  }
+
+.fa {
+    color: #550000;
+}

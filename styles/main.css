@@ -1,0 +1,67 @@
+@import 'https://fonts.googleapis.com/css?family=Abel|Alike+Angular';
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 45px 0 45px;
+  line-height: 1em;
+  font-family: 'Alike Angular', serif;
+
+}
+h1 {
+  font-size: 3.5em;
+
+}
+
+h2 {
+  font-size: 2em;
+  border-bottom: 2px solid #550000;
+}
+
+p {
+  margin: 15px 0 15px;
+  font-size: 1.2em;
+  line-height: 1.3em;
+}
+
+html {
+  background-color: #f8f8f8;
+
+}
+
+body {
+  max-width: 1200px;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px  ;
+  margin: 0 auto;
+  background-color: white;
+  padding: 1em;
+
+}
+
+header {
+  color: #d46a6a;
+  border-left: 10px solid #550000;
+  padding-left: .5em;
+  margin: 20px 0;
+
+}
+nav {
+
+}
+
+header h1,
+header p {
+  margin: 0;
+}
+
+header p {
+  color: #550000;
+  margin: 0 auto;
+
+}
+
+.fa {
+    color: #550000;
+}
