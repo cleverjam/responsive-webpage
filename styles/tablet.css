@@ -1,7 +1,11 @@
 nav ul {
   display: flex;
-  justify-content: flex-start;;
+  justify-content: flex-start;
   flex-direction: row;
+}
+
+nav li {
+  font-size: 1.3em;
 }
 
 #about,
@@ -17,7 +21,7 @@ footer .row {
   flex-wrap: nowrap;
 }
 footer .column {
-  padding: .5em;
+  padding: 1em .1em .1em .1em;
   flex: 1 1 50%;
 }
 

@@ -1,6 +1,9 @@
 body {
   font-size: 12px;
 }
+nav li {
+  font-size: 1.3em;
+}
 .section {
   padding: 0;
 }
