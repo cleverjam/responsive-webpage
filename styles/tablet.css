@@ -12,14 +12,17 @@ nav li {
 #careers, #contact  {
   padding: 0;
 }
+
 .row {
   flex-direction: column;
 
 }
+
 footer .row {
   flex-direction: row;
   flex-wrap: nowrap;
 }
+
 footer .column {
   padding: 1em .1em .1em .1em;
   flex: 1 1 50%;
@@ -28,6 +31,7 @@ footer .column {
 .column {
     margin-bottom:20px;
 }
+
 .jobs {
   border:none;
   border-top: 2px dashed green;
