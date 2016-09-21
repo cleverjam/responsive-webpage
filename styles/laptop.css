@@ -1,21 +1,12 @@
-body {
-  font-size: 14px;
-}
-nav li {
-  /*font-size: 1.3em;*/
-}
 .section {
   padding: 0;
 }
-.address {
 
-}
 .row.address {
   flex-direction: column;
-}
-.row.address {
   flex: 1 1 100%;
 }
+  
 .row.address .column {
   align-self: stretch;
     margin-bottom: 20px;
